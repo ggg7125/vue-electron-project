@@ -1,0 +1,4 @@
+it was all through vue-cli. just do:
+vue create my-app
+vue add electron-builder
+...then you end up pretty much with this project
